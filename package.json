@@ -1,0 +1,13 @@
+{
+  "name": "cardapio-senna",
+  "version": "1.0.0",
+  "description": "Senna Doce - Cardápio Digital",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Projeto estático - sem build'"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
